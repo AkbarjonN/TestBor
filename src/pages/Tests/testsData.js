@@ -1,3 +1,12 @@
+import piimaLogo from '../../../assets/piima-logo.webp';
+import alXorazmiyLogo from '../../../assets/al-xorazmiy-logo.webp';
+import mirzoUlugbekLogo from '../../../assets/mirzo-ulugbek-maktabi.webp';
+import turinLogo from '../../../assets/turin_logo.jpeg';
+import bbaLogo from '../../../assets/bba-logo.webp';
+import milliyLogo from '../../../assets/milliy-sertifikat-logo.webp';
+import testborLogo from '../../../assets/testbor-mini-logo.png';
+
+
 export const tests = [
   {
     id: 1,
@@ -8,7 +17,7 @@ export const tests = [
     duration: 130,
     isFree: false,
     price: "39,000",
-    image: "../../../assets/piima-logo.webp",
+    image: piimaLogo,
   },
   {
     id: 2,
@@ -19,7 +28,7 @@ export const tests = [
     duration: 130,
     isFree: false,
     price: "39,000",
-    image: "../../../assets/piima-logo.webp",
+    image: piimaLogo,
   },
   {
     id: 3,
@@ -30,7 +39,7 @@ export const tests = [
     duration: 130,
     isFree: false,
     price: "39,000",
-    image: "../../../assets/piima-logo.webp",
+    image: piimaLogo,
   },
 
   {
@@ -42,7 +51,7 @@ export const tests = [
     duration: 60,
     isFree: false,
     price: "29,000",
-    image: "../../../assets/piima-logo.webp",
+    image: piimaLogo,
   },
   {
     id: 5,
@@ -53,7 +62,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "../../../assets/al-xorazmiy-logo.webp",
+    image: alXorazmiyLogo,
   },
   {
     id: 6,
@@ -64,7 +73,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "../../../assets/mirzo-ulugbek-maktabi.webp",
+    image: mirzoUlugbekLogo,
   },
   {
     id: 7,
@@ -75,7 +84,7 @@ export const tests = [
     duration: 60,
     isFree: false,
     price: "29,000",
-    image: "../../../assets/piima-logo.webp",
+    image: piimaLogo,
   },
   {
     id: 8,
@@ -86,7 +95,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "../../../assets/al-xorazmiy-logo.webp",
+    image: alXorazmiyLogo,
   },
   {
     id: 9,
@@ -97,7 +106,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "../../../assets/mirzo-ulugbek-maktabi.webp",
+    image: mirzoUlugbekLogo,
   },
   {
     id: 10,
@@ -108,7 +117,7 @@ export const tests = [
     duration: 60,
     isFree: false,
     price: "29,000",
-    image: "../../../assets/piima-logo.webp",
+    image: piimaLogo,
   },
   {
     id: 11,
@@ -119,7 +128,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "../../../assets/al-xorazmiy-logo.webp",
+    image: alXorazmiyLogo,
   },
   {
     id: 12,
@@ -130,7 +139,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "../../../assets/mirzo-ulugbek-maktabi.webp",
+    image: mirzoUlugbekLogo,
   },
   {
     id: 13,
@@ -140,7 +149,7 @@ export const tests = [
     students: 2886,
     duration: 72,
     isFree: true,
-    image: "../../../assets/turin_logo.jpeg",
+    image: turinLogo,
   },
   {
     id: 14,
@@ -150,7 +159,7 @@ export const tests = [
     students: 13111,
     duration: 60,
     isFree: true,
-    image: "../../../assets/bba-logo.webp",
+    image: bbaLogo,
   },
   {
     id: 15,
@@ -160,7 +169,7 @@ export const tests = [
     students: 2667,
     duration: 60,
     isFree: true,
-    image: "../../../assets/bba-logo.webp",
+    image: bbaLogo,
   },
   {
     id: 16,
@@ -170,7 +179,7 @@ export const tests = [
     students: 4012,
     duration: 60,
     isFree: true,
-    image: "../../../assets/bba-logo.webp",
+    image: bbaLogo,
   },
 
   {
@@ -181,7 +190,7 @@ export const tests = [
     students: 1766,
     duration: 60,
     isFree: true,
-    image: "../../../assets/bba-logo.webp",
+    image: bbaLogo,
   },
   {
     id: 18,
@@ -191,7 +200,7 @@ export const tests = [
     students: 11973,
     duration: 150,
     isFree: true,
-    image: "../../../assets/milliy-sertifikat-logo.webp",
+    image: milliyLogo,
   },
   {
     id: 19,
@@ -202,7 +211,7 @@ export const tests = [
     duration: 150,
     isFree: false,
     price: "50,000",
-    image: "../../../assets/milliy-sertifikat-logo.webp",
+    image: milliyLogo,
   },
   {
     id: 20,
@@ -212,7 +221,7 @@ export const tests = [
     students: 59717,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo,
   },
   {
     id: 21,
@@ -222,7 +231,7 @@ export const tests = [
     students: 42532,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo,
   },
   {
     id: 22,
@@ -232,7 +241,7 @@ export const tests = [
     students: 36986,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo,
   },
   {
     id: 23,
@@ -242,7 +251,7 @@ export const tests = [
     students: 33184,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo,
   },
   {
     id: 24,
@@ -252,7 +261,7 @@ export const tests = [
     students: 19758,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo ,
   },
   {
     id: 25,
@@ -262,7 +271,7 @@ export const tests = [
     students: 13446,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo,
   },
   {
     id: 26,
@@ -272,7 +281,7 @@ export const tests = [
     students: 6761,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo,
   },
   {
     id: 27,
@@ -282,7 +291,7 @@ export const tests = [
     students: 3541,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo,
   },
   {
     id: 28,
@@ -292,7 +301,7 @@ export const tests = [
     students: 3758,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo,
   },
   {
     id: 29,
@@ -302,6 +311,6 @@ export const tests = [
     students: 4910,
     duration: 45,
     isFree: true,
-    image: "../../../assets/testbor-mini-logo.png",
+    image: testborLogo,
   },
 ];

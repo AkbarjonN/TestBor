@@ -1,76 +1,89 @@
 import React from "react";
 import { ChevronRightIcon } from "@heroicons/react/24/outline";
+import card1 from '../../../assets/store_card1.jpeg';
+import card2 from '../../../assets/store_card2.jpeg';
+import card3 from '../../../assets/store_card3.jpeg';
+import card4 from '../../../assets/store_card4.jpeg';
+import card5 from '../../../assets/store_card5.jpeg';
+import card6 from '../../../assets/store_card6.jpeg';
+import card7 from '../../../assets/store_card7.jpeg';
+import card8 from '../../../assets/store_card8.jpeg';
+import card9 from '../../../assets/store_card9.jpeg';
+import card10 from '../../../assets/store_card10.jpeg';
+import card11 from '../../../assets/store_card11.jpeg';
+import card12 from '../../../assets/store_card12.jpeg';
+
 const Store = () => {
   const products = [
     {
       id: 1,
-      image: "../../../assets/store_card1.jpeg",
+      image: card1,
       price: "12,000",
       name: "Смарт-часы 2E Wave",
     },
     {
       id: 2,
-      image: "../../../assets/store_card2.jpeg",
+      image: card2,
       price: "15,000",
       name: "Смарт-часы 2E Wave",
     },
     {
       id: 3,
-      image: "../../../assets/store_card3.jpeg",
+      image: card3,
       price: "18,000 ",
       name: "Quyosh batareyasida ishlaydigan Robot",
     },
     {
       id: 4,
-      image: "../../../assets/store_card4.jpeg",
+      image: card4,
       price: "19,000",
       name: "Детские умные часы",
     },
     {
       id: 5,
-      image: "../../../assets/store_card5.jpeg",
+      image: card5,
       price: "19,500",
       name: "Детский умные часы",
     },
     {
       id: 6,
-      image: "../../../assets/store_card6.jpeg",
+      image: card6,
       price: "19,500",
       name: "GS8 Plus Ultra",
     },
     {
       id: 7,
-      image: "../../../assets/store_card7.jpeg",
+      image: card7,
       price: "27,000",
       name: "Смарт часы Canyon",
     },
     {
       id: 8,
-      image: "../../../assets/store_card8.jpg",
+      image:card8,
       price: "50,000",
       name: "'Знаток' Arduino Mobile",
     },
     {
       id: 9,
-      image: "../../../assets/store_card9.jpeg",
+      image: card9,
       price: "90,000 ",
       name: "HUAWEI NOVA 12SE",
     },
     {
       id: 10,
-      image: "../../../assets/store_card10.jpeg",
+      image: card10,
       price: "140,000",
       name: "Apple Watch",
     },
     {
       id: 11,
-      image: "../../../assets/store_card11.jpeg",
+      image: card11,
       price: "140,000",
       name: "Apple Watch",
     },
     {
       id: 12,
-      image: "../../../assets/store_card12.webp",
+      image: card12,
       price: "280,000",
       name: "Apple Watch",
     },
