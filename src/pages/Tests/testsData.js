@@ -1,4 +1,4 @@
-import piimaLogo from '../../assets';
+import piimaLogo from '../../assets/piima-logo.webp';
 import alXorazmiyLogo from '../../assets/al-xorazmiy-logo.webp';
 import mirzoUlugbekLogo from '../../assets/mirzo-ulugbek-maktabi.webp';
 import turinLogo from '../../assets/turin_logo.jpeg';
