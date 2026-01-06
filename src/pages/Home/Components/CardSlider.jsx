@@ -3,23 +3,26 @@ import { Navigation, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import { ChevronRightIcon } from "@heroicons/react/24/outline";
+import cardImg1 from '../../../assets/CardSwiper-1.webp';
+import cardImg2 from '../../../assets/CardSwiper-2.webp';
+import cardImg3 from '../../../assets/CardSwiper-3.webp';
 const CardSlider = () => {
   const cards = [
     {
       id: 1,
-      img: "../../../assets/CardSwiper-1.webp",
+      img: cardImg1,
       title: "Guruh Musobaqa",
       text: "Bir vaqtning o'zida bir nechta ishtirokchilar bilan musobaqa",
     },
     {
       id: 2,
-      img: "../../../assets/CardSwiper-2.webp",
+      img: cardImg2,
       title: "Online Olimpiada",
       text: "Ro'yxatdan o'ting va bizolimpiada boshlanganida sizni xabardor qilamiz!",
     },
     {
       id: 3,
-      img: "../../../assets/CardSwiper-3.webp",
+      img: cardImg3,
       title: "Testlar",
       text: "Sinov testlarini bajaring va o'z ustingizda ishlab olimpiadaga tayyorlaning",
     },
