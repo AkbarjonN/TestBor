@@ -1,6 +1,6 @@
 import React from "react";
-import desktopImg from "../assets/homev3.webp";
-import mobileImg from "../assets/homev3mobile.webp";
+import desktopImg from "../../../assets/homev3.webp";
+import mobileImg from "../../../assets/homev3mobile.webp";
 const DiagnostikCard = () => {
   return (
     <div>
