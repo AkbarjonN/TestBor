@@ -7,7 +7,7 @@ import card4 from '../../../assets/store_card4.jpeg';
 import card5 from '../../../assets/store_card5.jpeg';
 import card6 from '../../../assets/store_card6.jpeg';
 import card7 from '../../../assets/store_card7.jpeg';
-import card8 from '../../../assets/store_card8.jpeg';
+import card8 from '../../../assets/store_card8.jpg';
 import card9 from '../../../assets/store_card9.jpeg';
 import card10 from '../../../assets/store_card10.jpeg';
 import card11 from '../../../assets/store_card11.jpeg';
