@@ -1,10 +1,18 @@
-import React from 'react'
-
+import React from "react";
+import desktopImg from "../assets/homev3.webp";
+import mobileImg from "../assets/homev3mobile.webp";
 const DiagnostikCard = () => {
   return (
     <div>
-        <div className="flex justify-center py-12">
-        <div className="w-6xl h-[658px] md:h-130 rounded-2xl md:bg-[url('src/assets/homev3.webp')] bg-[url('src/assets/homev3mobile.webp')] bg-cover bg-center relative overflow-hidden">
+      <div className="flex justify-center py-12">
+        <div
+          className="w-6xl h-[658px] md:h-130 rounded-2xl bg-cover bg-center relative overflow-hidden"
+          style={{
+            backgroundImage: `url(${
+              window.innerWidth >= 768 ? desktopImg : mobileImg
+            })`,
+          }}
+        >
           <h1 className="text-black font-semibold text-2xl md:text-5xl text-left w-72 md:w-xl absolute top-10 left-8 leading-10 md:leading-17">
             <span className="text-green-600 font-bold">Matematika</span>{" "}
             bo’yicha eng kuchli sunʼiy intellekt ustoz
@@ -18,7 +26,7 @@ const DiagnostikCard = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default DiagnostikCard
+export default DiagnostikCard;
