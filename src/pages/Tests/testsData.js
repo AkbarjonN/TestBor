@@ -1,10 +1,10 @@
-import piimaLogo from '../../../assets/piima-logo.webp';
-import alXorazmiyLogo from '../../../assets/al-xorazmiy-logo.webp';
-import mirzoUlugbekLogo from '../../../assets/mirzo-ulugbek-maktabi.webp';
-import turinLogo from '../../../assets/turin_logo.jpeg';
-import bbaLogo from '../../../assets/bba-logo.webp';
-import milliyLogo from '../../../assets/milliy-sertifikat-logo.webp';
-import testborLogo from '../../../assets/testbor-mini-logo.png';
+import piimaLogo from '../../assets';
+import alXorazmiyLogo from '../../assets/al-xorazmiy-logo.webp';
+import mirzoUlugbekLogo from '../../assets/mirzo-ulugbek-maktabi.webp';
+import turinLogo from '../../assets/turin_logo.jpeg';
+import bbaLogo from '../../assets/bba-logo.webp';
+import milliyLogo from '../../assets/milliy-sertifikat-logo.webp';
+import testborLogo from '../../assets/testbor-mini-logo.png';
 
 
 export const tests = [
