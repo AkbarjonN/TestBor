@@ -8,7 +8,7 @@ export const tests = [
     duration: 130,
     isFree: false,
     price: "39,000",
-    image: "/src/assets/piima-logo.webp",
+    image: "../../../assets/piima-logo.webp",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ export const tests = [
     duration: 130,
     isFree: false,
     price: "39,000",
-    image: "/src/assets/piima-logo.webp",
+    image: "../../../assets/piima-logo.webp",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ export const tests = [
     duration: 130,
     isFree: false,
     price: "39,000",
-    image: "/src/assets/piima-logo.webp",
+    image: "../../../assets/piima-logo.webp",
   },
 
   {
@@ -42,7 +42,7 @@ export const tests = [
     duration: 60,
     isFree: false,
     price: "29,000",
-    image: "/src/assets/piima-logo.webp",
+    image: "../../../assets/piima-logo.webp",
   },
   {
     id: 5,
@@ -53,7 +53,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "/src/assets/al-xorazmiy-logo.webp",
+    image: "../../../assets/al-xorazmiy-logo.webp",
   },
   {
     id: 6,
@@ -64,7 +64,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "/src/assets/mirzo-ulugbek-maktabi.webp",
+    image: "../../../assets/mirzo-ulugbek-maktabi.webp",
   },
   {
     id: 7,
@@ -75,7 +75,7 @@ export const tests = [
     duration: 60,
     isFree: false,
     price: "29,000",
-    image: "/src/assets/piima-logo.webp",
+    image: "../../../assets/piima-logo.webp",
   },
   {
     id: 8,
@@ -86,7 +86,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "/src/assets/al-xorazmiy-logo.webp",
+    image: "../../../assets/al-xorazmiy-logo.webp",
   },
   {
     id: 9,
@@ -97,7 +97,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "/src/assets/mirzo-ulugbek-maktabi.webp",
+    image: "../../../assets/mirzo-ulugbek-maktabi.webp",
   },
   {
     id: 10,
@@ -108,7 +108,7 @@ export const tests = [
     duration: 60,
     isFree: false,
     price: "29,000",
-    image: "/src/assets/piima-logo.webp",
+    image: "../../../assets/piima-logo.webp",
   },
   {
     id: 11,
@@ -119,7 +119,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "/src/assets/al-xorazmiy-logo.webp",
+    image: "../../../assets/al-xorazmiy-logo.webp",
   },
   {
     id: 12,
@@ -130,7 +130,7 @@ export const tests = [
     duration: 90,
     isFree: false,
     price: "39,000",
-    image: "/src/assets/mirzo-ulugbek-maktabi.webp",
+    image: "../../../assets/mirzo-ulugbek-maktabi.webp",
   },
   {
     id: 13,
@@ -140,7 +140,7 @@ export const tests = [
     students: 2886,
     duration: 72,
     isFree: true,
-    image: "/src/assets/turin_logo.jpeg",
+    image: "../../../assets/turin_logo.jpeg",
   },
   {
     id: 14,
@@ -150,7 +150,7 @@ export const tests = [
     students: 13111,
     duration: 60,
     isFree: true,
-    image: "/src/assets/bba-logo.webp",
+    image: "../../../assets/bba-logo.webp",
   },
   {
     id: 15,
@@ -160,7 +160,7 @@ export const tests = [
     students: 2667,
     duration: 60,
     isFree: true,
-    image: "/src/assets/bba-logo.webp",
+    image: "../../../assets/bba-logo.webp",
   },
   {
     id: 16,
@@ -170,7 +170,7 @@ export const tests = [
     students: 4012,
     duration: 60,
     isFree: true,
-    image: "/src/assets/bba-logo.webp",
+    image: "../../../assets/bba-logo.webp",
   },
 
   {
@@ -181,7 +181,7 @@ export const tests = [
     students: 1766,
     duration: 60,
     isFree: true,
-    image: "/src/assets/bba-logo.webp",
+    image: "../../../assets/bba-logo.webp",
   },
   {
     id: 18,
@@ -191,7 +191,7 @@ export const tests = [
     students: 11973,
     duration: 150,
     isFree: true,
-    image: "/src/assets/milliy-sertifikat-logo.webp",
+    image: "../../../assets/milliy-sertifikat-logo.webp",
   },
   {
     id: 19,
@@ -202,7 +202,7 @@ export const tests = [
     duration: 150,
     isFree: false,
     price: "50,000",
-    image: "/src/assets/milliy-sertifikat-logo.webp",
+    image: "../../../assets/milliy-sertifikat-logo.webp",
   },
   {
     id: 20,
@@ -212,7 +212,7 @@ export const tests = [
     students: 59717,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
   {
     id: 21,
@@ -222,7 +222,7 @@ export const tests = [
     students: 42532,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
   {
     id: 22,
@@ -232,7 +232,7 @@ export const tests = [
     students: 36986,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
   {
     id: 23,
@@ -242,7 +242,7 @@ export const tests = [
     students: 33184,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
   {
     id: 24,
@@ -252,7 +252,7 @@ export const tests = [
     students: 19758,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
   {
     id: 25,
@@ -262,7 +262,7 @@ export const tests = [
     students: 13446,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
   {
     id: 26,
@@ -272,7 +272,7 @@ export const tests = [
     students: 6761,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
   {
     id: 27,
@@ -282,7 +282,7 @@ export const tests = [
     students: 3541,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
   {
     id: 28,
@@ -292,7 +292,7 @@ export const tests = [
     students: 3758,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
   {
     id: 29,
@@ -302,6 +302,6 @@ export const tests = [
     students: 4910,
     duration: 45,
     isFree: true,
-    image: "/src/assets/testbor-mini-logo.png",
+    image: "../../../assets/testbor-mini-logo.png",
   },
 ];

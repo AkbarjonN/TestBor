@@ -10,7 +10,7 @@ const Piima = () => {
     <div className=" space-y-5">
       <div className="relative flex w-full flex-col items-stretch overflow-hidden rounded-xl bg-[#2959c2] lg:flex-row lg:rounded-[30px]">
         <img
-          src="/src/assets/piima_video_bg.webp"
+          src="../../../assets/piima_video_bg.webp"
           alt=""
           className="absolute inset-0 h-full w-full object-cover"
         />
@@ -39,7 +39,7 @@ const Piima = () => {
             </div>
             <div className="group relative flex w-full flex-1 items-center justify-center overflow-hidden rounded-xl lg:rounded-[30px]" onClick={() => setIsOpen(true)}>
               <img
-                src="/src/assets/piima_video_preview.webp"
+                src="../../../assets/piima_video_preview.webp"
                 alt=""
                 className="absolute inset-0 h-full w-full object-cover"
               />

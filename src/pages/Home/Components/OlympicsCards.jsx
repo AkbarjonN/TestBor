@@ -1,5 +1,7 @@
 import React from "react";
 import { ChevronRightIcon } from "@heroicons/react/24/outline";
+import olympic from "../../../assets/olympiad_bg.webp";
+import ibro from "../../../assets/ibro_bg.webp";
 const OlympicsCards = () => {
   return (
     <div className="max-w-6xl mx-auto py-12">
@@ -8,7 +10,10 @@ const OlympicsCards = () => {
         style={{ scrollbarWidth: "none" }}
       >
         {/* card1 */}
-        <div className="w-[321px] h-[356px] md:w-[547px] md:h-[471px] bg-[url('src/assets/olympiad_bg.webp')] bg-cover bg-center bg-[rgb(236,235,227)] rounded-2xl relative flex-shrink-0">
+        <div className="w-[321px] h-[356px] md:w-[547px] md:h-[471px] bg-cover bg-center bg-[rgb(236,235,227)] rounded-2xl relative flex-shrink-0" 
+        style={{
+          backgroundImage: `url(${olympic})`,
+        }}>
           <button className="bg-blue-500 text-white font-medium md:text-xl text-base py-1.5 w-[248px] md:w-[298px] rounded-tl-2xl rounded-br-2xl">
             Boshlandi
           </button>
@@ -23,7 +28,10 @@ const OlympicsCards = () => {
           </button>
         </div>
         {/* card2 */}
-        <div className="w-[321px] h-[356px] md:w-[547px] md:h-[471px] bg-[url('src/assets/ibro_bg.webp')] bg-cover bg-center rounded-2xl relative flex-shrink-0">
+        <div className="w-[321px] h-[356px] md:w-[547px] md:h-[471px] bg-cover bg-center rounded-2xl relative flex-shrink-0"
+        style={{
+          backgroundImage: `url(${ibro})`,
+        }}>
           <button className="bg-blue-500 text-white font-medium md:text-xl text-base py-1.5 w-[248px] md:w-[298px] rounded-tl-2xl rounded-br-2xl">
             Yakunlangan
           </button>

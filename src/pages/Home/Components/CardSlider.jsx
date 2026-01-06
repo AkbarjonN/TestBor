@@ -7,19 +7,19 @@ const CardSlider = () => {
   const cards = [
     {
       id: 1,
-      img: "/src/assets/CardSwiper-1.webp",
+      img: "../../../assets/CardSwiper-1.webp",
       title: "Guruh Musobaqa",
       text: "Bir vaqtning o'zida bir nechta ishtirokchilar bilan musobaqa",
     },
     {
       id: 2,
-      img: "/src/assets/CardSwiper-2.webp",
+      img: "../../../assets/CardSwiper-2.webp",
       title: "Online Olimpiada",
       text: "Ro'yxatdan o'ting va bizolimpiada boshlanganida sizni xabardor qilamiz!",
     },
     {
       id: 3,
-      img: "/src/assets/CardSwiper-3.webp",
+      img: "../../../assets/CardSwiper-3.webp",
       title: "Testlar",
       text: "Sinov testlarini bajaring va o'z ustingizda ishlab olimpiadaga tayyorlaning",
     },
