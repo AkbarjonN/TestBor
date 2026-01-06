@@ -11,7 +11,7 @@ import card8 from '../../../assets/store_card8.jpg';
 import card9 from '../../../assets/store_card9.jpeg';
 import card10 from '../../../assets/store_card10.jpeg';
 import card11 from '../../../assets/store_card11.jpeg';
-import card12 from '../../../assets/store_card12.jpeg';
+import card12 from '../../../assets/store_card12.webp';
 
 const Store = () => {
   const products = [
